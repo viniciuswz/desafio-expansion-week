@@ -9,7 +9,7 @@ const App: React.FC = () => {
   return (
     <>
       <GlobalStyle />
-      <BrowserRouter>
+      <BrowserRouter basename={window.location.pathname || ''}>
         <Routes />
       </BrowserRouter>
     </>
