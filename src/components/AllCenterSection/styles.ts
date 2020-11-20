@@ -4,6 +4,7 @@ export const AllCenterContainer = styled.section`
   max-width: 1366px;
   margin: 140px auto;
   color: #000;
+  padding: 0 32px;
 
   position: relative;
   h2{
@@ -24,6 +25,15 @@ export const AllCenterContainer = styled.section`
     text-align: center;
 
 
+  }
+
+  @media (max-width: 1024px){
+    max-width:480px;
+    width:90%;
+    h2{
+      font-size: 2.4rem;
+      line-height: 3.6rem;
+    }
   }
 
 

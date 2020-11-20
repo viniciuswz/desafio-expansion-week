@@ -10,6 +10,13 @@ import LittleSection from '../../components/LittleSection/index';
 import RowTitleSection from '../../components/RowTitleSection/index';
 import AllCenterSection from '../../components/AllCenterSection/index';
 import AlternateSideSection from '../../components/AlternateSideSection/index';
+import QuoteSection from '../../components/QuoteSection/index';
+import RowImageSection from '../../components/RowImageSection/index';
+import TerminalSection from '../../components/TerminalSection';
+
+
+
+
 
 const LandingPage: React.FC = () => {
   return (
@@ -21,6 +28,9 @@ const LandingPage: React.FC = () => {
       <RowTitleSection/>
       <AllCenterSection/>
       <AlternateSideSection/>
+      <QuoteSection/>
+      <RowImageSection/>
+      <TerminalSection/>
     </>
   );
 };

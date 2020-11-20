@@ -11,6 +11,7 @@ export const SectionContainer = styled.section`
   color: #000;
   margin-top: 90px;
   position: relative;
+  padding: 0 32px;
 
   h2{
     width:90%;
@@ -20,6 +21,13 @@ export const SectionContainer = styled.section`
     margin: 0 auto;
 
   }
+
+  @media (max-width: 1024px){
+    h2{
+        font-size: 2.4rem;
+        line-height: 3.6rem;
+      }
+    }
 
 
  `;
@@ -56,4 +64,13 @@ export const SectionContainer = styled.section`
       margin-top: 8px;
     }
   }
+  @media (max-width: 1024px){
+    max-width:480px;
+    width:90%;
+    margin: 0 auto;
+    div{
+      margin: 10px
+    }
+  }
+
  `

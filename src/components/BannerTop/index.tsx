@@ -10,9 +10,14 @@ const BannerTop: React.FC = () => {
     <BannerContainer>
     <BannerContent>
      <BannerContentText >
-         <h1>Lorem ipsun dolor ?</h1>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum nihil esse non! Eos laboriosam molestiae unde quia pariatur perspiciatis ratione vitae iste illum ipsum explicabo deserunt, inventore, non ex? Laboriosam.</p>
-         <button>Aprender a controlar o tempo</button>
+         <h1>Produtividade nas nossas vidas, sim ou claro ?</h1>
+         <p>
+           Quantas vezes você adiou uma tarefa para outro dia? ou se distraiu com as notificações do seu celular enquanto trabalhava em algum código?
+           <br/>
+           Vamos te apresentar algumas maneiras de como vencer a procrastinação e ser produtivo, venha comigo nessa leitura!
+         </p>
+
+         <button>Eu quero ser produtivo</button>
        </BannerContentText>
        <BannerContentImage>
          <img src={BannerTime} alt=""/>

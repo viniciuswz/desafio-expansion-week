@@ -9,20 +9,18 @@ import { ReasonContainer } from './styles';
 const ReasonSection: React.FC = () => {
   return (
     <ReasonContainer>
-      <h2>Identificando o motivo</h2>
+      <h2>O primeiro passo é reconhecer o erro</h2>
       <p>
-        Dentre milhares de maneira de identificar quem causa sua procrastinação,
-        vou lhe oferecer um teste simples, preciso e objetivo de quem causa essa perturbação
-        em sua vida e métodos de criar rotinas que melhorem seu dia a dia
+        Reconhecer o motivo dos seus "amanhã eu faço" é um passo importante.<br/>
+        É certo que existem certas distrações que você não controla, o volume do carro do ovo que passa na sua rua
+        é uma delas, mas outras distrações você tem total controle, ninguém te obriga a ver se o trump venceu as eleições nos Estados Unidos não é mesmo ?
       </p>
-      <p>Para continuar precisamos analizar uma foto do seu rosto, vamos identificar seu perfil com nossa avançada I.A</p>
-      <form action="">
-        <input id="selfie" type="file"/>
-        <label htmlFor="selfie">Enviar Selfie</label>
-        <div>
-          <img src={selfieCat} alt=""/>
-        </div>
-      </form>
+      <p>
+        Grande parte dos nossos "deixa para depois" parte de nós mesmos, e da mesma forma que pegamos vícios que tiram nosso foco,
+        podemos trabalhar para eliminar essas atitudes negativas do nosso dia a dia<br/>
+        Só é preciso foco, força de vontade e paciência.
+      </p>
+
     </ReasonContainer>
 
   );

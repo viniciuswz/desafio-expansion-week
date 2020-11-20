@@ -1,15 +1,15 @@
 import styled from 'styled-components';
 
-export const RowTitleContainer = styled.section`
+export const RowImageContainer = styled.section`
   max-width: 1140px;
-  margin: 0 auto;
   color: #000;
-  margin-top: 90px;
+  margin: 90px auto;
   position: relative;
   display:flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  padding: 0 32px;
+  padding: 0 20px;
+
 
   div{
     width: 48%;
@@ -42,6 +42,13 @@ export const RowTitleContainer = styled.section`
         line-height: 3.6rem;
         margin-bottom: 24px;
       }
+    }
+
+    img{
+      width: 70%;
+      max-width: 320px;
+      display: block;
+      margin: 0 auto;
     }
   }
 

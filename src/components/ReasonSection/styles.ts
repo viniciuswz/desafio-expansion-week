@@ -13,6 +13,7 @@ export const ReasonContainer = styled.section`
   background-color: #2B79EE;
   color: white;
   padding-top: 100px;
+  padding-bottom:30px;
   position: relative;
   &::before{
     content: '';
@@ -36,7 +37,7 @@ export const ReasonContainer = styled.section`
     width:90%;
     line-height:2.4rem;
     margin: 24px auto;
-    max-width: 440px;
+    max-width: 550px;
 
     & ~p{
       margin-top: 0;
@@ -68,8 +69,7 @@ export const ReasonContainer = styled.section`
     div{
       max-width: 450px;
       width: 90vw;
-      max-height: 350px;
-      height:100vh;
+
       position: relative;
       overflow: hidden;
       border-radius: 32px;

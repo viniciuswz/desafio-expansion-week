@@ -9,7 +9,7 @@ const MemeSection: React.FC = () => {
     <MemeContainer>
       <div className="distraction">
         <img src={distractionImage_1} alt=""/>
-        <span className="distraction__title">Jogos online</span>
+        <span className="distraction__title">Distrações</span>
       </div>
       <div className="goal">
         <span className="goal__you">Você</span>

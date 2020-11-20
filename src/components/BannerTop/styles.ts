@@ -91,11 +91,15 @@ export const BannerContentText = styled.div`
   h1{
     font-size: 3.6rem;
     line-height: 5.4rem;
+    margin-bottom: 24px;
+
   }
 
   p{
     line-height: 2.4rem;
-    margin: 24px 0;
+    & ~ p {
+      margin-top: 10px;
+    }
   }
 
   button{
@@ -108,8 +112,11 @@ export const BannerContentText = styled.div`
     border-radius: 8px;
     line-height: 2.4rem;
     font-weight: bold;
+    font-size: 1.6rem;
     appearance: none;
-    border: 0
+    border: 0;
+    margin-top: 24px;
+    cursor: pointer;
   }
 
   &::before{
