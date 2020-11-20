@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.js": "/static/js/main.bc32b8d7.chunk.js",
+    "main.js.map": "/static/js/main.bc32b8d7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2ce86f38.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2ce86f38.js.map",
+    "static/js/2.d087536b.chunk.js": "/static/js/2.d087536b.chunk.js",
+    "static/js/2.d087536b.chunk.js.map": "/static/js/2.d087536b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a571d12086743f7d6cf441411cea25f7.js": "/precache-manifest.a571d12086743f7d6cf441411cea25f7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.d087536b.chunk.js.LICENSE.txt": "/static/js/2.d087536b.chunk.js.LICENSE.txt",
+    "static/media/alternateSectionIcon.svg": "/static/media/alternateSectionIcon.dbbe9f45.svg",
+    "static/media/banner-background-complement.svg": "/static/media/banner-background-complement.ae285511.svg",
+    "static/media/banner-background.svg": "/static/media/banner-background.a1089e2f.svg",
+    "static/media/banner-balls.svg": "/static/media/banner-balls.d227a444.svg",
+    "static/media/banner-icons.svg": "/static/media/banner-icons.e8e28b1f.svg",
+    "static/media/banner-time.svg": "/static/media/banner-time.af3fef89.svg",
+    "static/media/distraction_1.png": "/static/media/distraction_1.6d7f510c.png",
+    "static/media/goal.png": "/static/media/goal.13e8e6fc.png",
+    "static/media/headsetIcon.svg": "/static/media/headsetIcon.eaefa32b.svg",
+    "static/media/little-section.svg": "/static/media/little-section.f21bb8bc.svg",
+    "static/media/logoutIcon.svg": "/static/media/logoutIcon.763e0640.svg",
+    "static/media/memeBackground.png": "/static/media/memeBackground.2a736a39.png",
+    "static/media/pomodoriIcon.svg": "/static/media/pomodoriIcon.f35da63b.svg",
+    "static/media/quoteBottomRightIcon.svg": "/static/media/quoteBottomRightIcon.cc9c8559.svg",
+    "static/media/quoteTopLeftIcons.svg": "/static/media/quoteTopLeftIcons.2d8e8468.svg",
+    "static/media/quoteUser.svg": "/static/media/quoteUser.38f00980.svg",
+    "static/media/rowImage.svg": "/static/media/rowImage.6420acb3.svg",
+    "static/media/smartphoneIcon.svg": "/static/media/smartphoneIcon.dfa5f435.svg",
+    "static/media/tabletIcon.svg": "/static/media/tabletIcon.88d8c33b.svg",
+    "static/media/title-icons.svg": "/static/media/title-icons.31701b65.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ce86f38.js",
+    "static/js/2.d087536b.chunk.js",
+    "static/js/main.bc32b8d7.chunk.js"
+  ]
+}
